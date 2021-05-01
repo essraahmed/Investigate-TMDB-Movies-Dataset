@@ -7,9 +7,13 @@ This is the TMDb movie data set for data analysis. This data set contains inform
 This database contains the following features:-
 
 movie_id - A unique identifier for each movie.
+
 imdb_id - A unique identifier for each movie on IMDB.
+
 cast - The name of lead and supporting actors.
-director - the director of the movie
+
+director - the director of the movie.
+
 budget - The budget in which the movie was made.
 genre - The genre of the movie, Action, Comedy ,Thriller etc.
 homepage - A link to the homepage of the movie.
